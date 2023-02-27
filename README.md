@@ -1,9 +1,7 @@
 # ITI-Final-DevOps-Task
 ITI-Final-DevOps-task 
 
-### Creating Infrastructure of Kubernetes
-
-### Accessing the private instance
+### Creating Infrastructure of Kubernetes Using Terraform
 
 ### Deploying Jenkins using yaml files and expose it through Load Balancer
 
